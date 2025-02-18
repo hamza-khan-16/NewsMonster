@@ -12,6 +12,7 @@ export default defineConfig({
       '.ngrok.io' ,
      'http://192.168.154.4:5173/'
     ],
+    base: './',
   },
 })
 
